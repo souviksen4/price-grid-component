@@ -4,7 +4,7 @@ This repository contains the code for a simple and elegant single price grid com
 
 ## Preview
 
-![Single Price Grid Component Preview](screenshot.png)
+![Screenshot 2023-11-03 150454](https://github.com/souviksen4/price-grid-component/assets/149329178/96009fe2-9361-4475-be48-43249a50a880)
 
 ## Features
 
