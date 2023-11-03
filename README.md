@@ -36,5 +36,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to [Google Fonts](https://fonts.google.com/) for providing the beautiful "Karla" font used in this project.
 
 ---
-
-Feel free to use this single price grid component in your projects and customize it according to your needs. If you encounter any issues or have suggestions for improvements, please create an issue or pull request. Happy coding!
